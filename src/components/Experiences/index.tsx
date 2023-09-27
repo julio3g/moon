@@ -10,7 +10,7 @@ export function Experiences() {
           Desenvolvo pequenos projetos como o site da Contábil Vitória
           utilizando apenas
           <b> NextJS e Prismic</b>. Para aplicativos web como a rede social Dogs
-          eu trabalhei no <b>UX</b> e <b>UI Design</b> do projeto.
+          eu trabalhei no <b>UX e UI Design</b> do projeto.
         </p>
         <div className="flex flex-col gap-6 md:ml-24 col-span-2">
           <Job
